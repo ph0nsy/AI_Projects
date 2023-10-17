@@ -30,9 +30,9 @@ This section has __0__ notebook(s).
 
 My name is Alonso Moreno, but you can call me ___ph0nsy___.
 
-I am a soon to be Bachelor in Computer Engineering who is passionate about Game Development and Artificial Intelligence. And, just like anyone who is passionate about something, I also love learning and sharing about it.
+I am on the verge of completing my Bachelor's degree in Computer Engineering and have a deep passion for Game Development, Artificial Intelligence and a wide range of other subjects. And, just like anyone who is passionate about something, I also love learning and sharing my enthusiasm and knowledge about them with others.
 
-This repository is just the result of that, an archive that me (or anybody else) can access anytime to look back on some projects or to check if I have doubts about something I have already done.
+This repository is a product of that passion, an archive that me (or anybody else) can access anytime to look back on some projects or to check if I have doubts about something I have already done.
 
 Feel free to check or use anything here and, of course, have fun with it!
 
