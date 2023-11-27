@@ -1,4 +1,4 @@
-# AI_Porjects
+# AI_Projects
 
 This repository is an archive of all of my works regarding Artificial Intelligence, Statistics & Datamining and other _python-notebook-based_ pojects.
 
